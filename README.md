@@ -74,3 +74,8 @@ You must export a log of your terminal commands to prove you completed the labor
 3. Right-click `lab01_history.txt` and select **Download**.
 4. Upload this downloaded file to the Week 1 assignment bin in your LMS before the end of the session.
 5. Close your browser tab. Your cloud container will automatically spin down and save its state.
+
+markdown
+About the Developer
+Hello! I am a Computer Engineering student at FEU Alabang, currently learning cloud-native
+software design.
