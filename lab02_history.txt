@@ -1,0 +1,6 @@
+*   2cb5b7d Merge pull request #1 from Lex3103/feature-bio
+|\  
+| * f57a418 feat: added developer biography to readme
+|/  
+* ea406ce chore: initial project scaffolding and gitignore
+* e68d14d Initial commit

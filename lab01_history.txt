@@ -1,0 +1,26 @@
+    1  git config --global user.name "Alexis P. Fong"
+    2  git config --global user.email "apfong@feualabang.edu.ph"
+    3  git config --list
+    4  # Create the virtual environment folder named '.venv'
+    5  python3 -m venv .venv
+    6  # Activate the environment
+    7  source .venv/bin/activate
+    8  # Create a file to hide the virtual environment from version control
+    9  echo ".venv/" > .gitignore
+   10  echo "__pycache__/" >> .gitignore
+   11  source /workspaces/CPE0049L_Fong_Alexis/.venv/bin/activate
+   12  # Stage and commit the scaffolding
+   13  git add .gitignore
+   14  git commit -m "chore: initial project scaffolding and gitignore"
+   15  # Push the commit to the main branch
+   16  git push origin main
+   17  # Export your command history to a text file
+   18  history > lab01_history.txt
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	lab01_history.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
