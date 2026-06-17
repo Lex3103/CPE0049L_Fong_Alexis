@@ -1,0 +1,9 @@
+ac8da53 ci: added math logic and GitHub Actions pipeline
+a8c3805 ci: added math logic and GitHub Actions pipeline
+276ad60 ci: added math logic and GitHub Actions pipeline
+b10015b  ci : added math logic and github actions pipeline
+3f7e02e ci: added math logic and github actions pipeline
+total 12
+drwxrwxrwx+ 2 vscode vscode 4096 May  6 07:07 .
+drwxrwxrwx+ 3 vscode vscode 4096 May  6 07:28 ..
+-rw-rw-rw-  1 vscode vscode  462 May  6 07:09 ci-pipeline.yml
