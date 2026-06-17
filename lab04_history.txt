@@ -1,0 +1,3 @@
+2981e64 Merge pull request #6 from Lex3103/feature-user-profile
+c9b07ae feat: added basic profile logic. Resolves #5
+bef3cdc Merge pull request #2 from Lex3103/feature-math-logic
